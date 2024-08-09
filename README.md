@@ -2,7 +2,7 @@
 
 ###
 
-<h4 align="center">I am Miguel Martinez from Chile, full stack web developer and musician with a passion for jazz.</h4>
+<h4 align="center">I am Miguel Martinez, full stack web developer and musician with a passion for jazz and frontend.</h4>
 
 ###
 
