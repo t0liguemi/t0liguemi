@@ -12,7 +12,7 @@
 
 ###
 
-<p align="left">I got in the field in 2023, now working in my project ReuPlan, check it out here:<br>https://github.com/t0liguemi/ReuPlan-Django<br><br>Before that I had been mainly doing music related stuff, you can check it out in my LinkTree below!</p>
+<p align="left">I got in the field in 2023, now working in my project Reuplan, check it out here:<br>https://github.com/t0liguemi/reuplan-next<br><br>Before that I had been mainly doing music related stuff, you can check it out in my LinkTree below!</p>
 
 ###
 
